@@ -1,0 +1,19 @@
+{
+  "name": "cpnt-a4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeju1996/cpnt-a4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeju1996/cpnt-a4/issues"
+  },
+  "homepage": "https://github.com/Hyeju1996/cpnt-a4#readme"
+}
